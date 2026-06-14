@@ -49,9 +49,9 @@ We are actively looking to connect with:
 
 **Entity:** Terrabucks Capital  
 **Founder:** Maya Oberholzer  
-**Email:** mail@terrabuckscapital.com]  
+**Email:** mail@terrabuckscapital.com  
 **LinkedIn:** www.linkedin.com/in/mayaoberholzer
-**Website:** [[link to your GitHub Pages site](https://mayaober.github.io/terrabucks-capital/)]
+**Website:** https://mayaober.github.io/terrabucks-capital/
 
 ---
 
