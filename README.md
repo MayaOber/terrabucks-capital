@@ -48,10 +48,10 @@ We are actively looking to connect with:
 ## 📫 Contact
 
 **Entity:** Terrabucks Capital  
-**Founder:** [Your Full Name]  
-**Email:** [your.email@terrabucks.capital]  
-**LinkedIn:** [link]  
-**Website:** [link to your GitHub Pages site]
+**Founder:** Maya Oberholzer  
+**Email:** mail@terrabuckscapital.com]  
+**LinkedIn:** www.linkedin.com/in/mayaoberholzer
+**Website:** [[link to your GitHub Pages site](https://mayaober.github.io/terrabucks-capital/)]
 
 ---
 
